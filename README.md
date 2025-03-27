@@ -35,8 +35,8 @@
 ---
 
 ## **📌 Projetos Destacados**  
-🔹 **[Calculadora_de_inadimplencia]**  
-🔹 **[TecnStage]** 
+🔹 **Calculadora_de_inadimplencia**  
+🔹 **TecnStage** 
 
 ---
 
