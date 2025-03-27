@@ -41,9 +41,9 @@
 ---
 
 ## **📈 Estatísticas do GitHub**  
-[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)]([https://github.com/SEUUSERNAME](https://github.com/DevCordeirocf))  
+[![DevCordeirocf Stats](https://github-readme-stats.vercel.app/api?username=DevCordeirocf&show_icons=true&theme=radical)]([(https://github.com/DevCordeirocf)])  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)]([https://github.com/SEUUSERNAME](https://github.com/DevCordeirocf))  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCordeirocf&layout=compact&theme=radical)]([(https://github.com/DevCordeirocf)])  
 
 ---
 
