@@ -54,7 +54,7 @@
 ---
 
 <div>
-<img aligtn="right "src="[[https://i.giphy.com/1qTIW3DqTPwUo.webp](https://i.giphy.com/1qTIW3DqTPwUo.webp)]" alt="Ein">
+<img aligtn="right "src="[[https://i.giphy.com/1qTIW3DqTPwUo.webp](https://i.giphy.com/1qTIW3DqTPwUo.webp)]" alt="Ein" heigth=300>
 
 </div>
 
