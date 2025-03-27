@@ -1,49 +1,58 @@
-👋 Olá, eu sou o [Seu Nome]!
-💻 Desenvolvedor Back-end | Full-Stack
+# 👋 Olá, eu sou o Luis Cordeiro!  
 
-🧑🏾‍💻 Atualmente, focado em sistemas robustos e escaláveis com:
+### **💻 Desenvolvedor Back-end | Full-Stack**  
 
-    Desenvolvimento de APIs RESTful e microsserviços.
+🧑🏾‍💻 Atualmente, focado em **sistemas robustos e escaláveis** com:  
+- Desenvolvimento de **APIs RESTful** e microsserviços.  
+- Integração entre serviços e otimização de **performance**.  
+- Código limpo, segurança e boas práticas (**SOLID, Clean Code**).  
 
-    Integração entre serviços e otimização de performance.
+---
 
-    Código limpo, segurança e boas práticas (SOLID, Clean Code).
+## 🛠 **Tecnologias e Ferramentas**  
 
-🛠 Tecnologias e Ferramentas
-Back-end
+### **Back-end**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
-NestJS
-Node.js
-TypeScript
-Python
-Banco de Dados
+### **Banco de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-PostgreSQL
-DevOps & Cloud
+### **DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-Docker
-Front-end
+### **Front-end**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-HTML5
-CSS3
-JavaScript
+### **Outros**  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![IA](https://img.shields.io/badge/IA-FF6B00?style=for-the-badge&logo=openai&logoColor=white)  
 
-Outros
+---
 
-Electron
-IA
-📌 Projetos Destacados
+## **📌 Projetos Destacados**  
+🔹 **[Nome do Projeto]** – Breve descrição + tecnologias usadas.  
+🔹 **[Nome do Projeto]** – Breve descrição + link (se aplicável).  
 
-🔹 [Nome do Projeto] – Breve descrição + tecnologias usadas.
-🔹 [Nome do Projeto] – Breve descrição + link (se aplicável).
-📈 Estatísticas do GitHub
+---
 
-Seu GitHub Stats
+## **📈 Estatísticas do GitHub**  
+[![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical)]([https://github.com/SEUUSERNAME](https://github.com/DevCordeirocf))  
 
-Top Langs
-📫 Como me encontrar
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical)]([https://github.com/SEUUSERNAME](https://github.com/DevCordeirocf))  
 
-LinkedIn
-Gmail
+---
 
-🐢 "Baby Yoda" – "Que a Força (e o código limpo) estejam com você!" ✨
+## **📫 Como me encontrar**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/luis-eduardo-cordeiro-chaves-ferreira-25b7a62bb/))  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscordeiro2006@gmail.com)  
+
+---
+
+🐢 **"Baby Yoda"** – *"Que a Força (e o código limpo) estejam com você!"* ✨  
+
+---
