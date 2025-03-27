@@ -53,10 +53,8 @@
 
 ---
 
-<div>
-<img aligtn="right "src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNzaWwzNjVxaDZlNXI2aWhlaG15MWNxMWpvMDhiZGhmODk5MXNmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qTIW3DqTPwUo/giphy.gif]" 
-alt="Ein" height="150">
-
-</div>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNzaWwzNjVxaDZlNXI2aWhlaG15MWNxMWpvMDhiZGhmODk5MXNmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qTIW3DqTPwUo/giphy.gif" width="300" alt="Ein">
+</p>
 
 ---
