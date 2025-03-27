@@ -55,7 +55,7 @@
 
 <div>
 <img aligtn="right "src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNzaWwzNjVxaDZlNXI2aWhlaG15MWNxMWpvMDhiZGhmODk5MXNmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qTIW3DqTPwUo/giphy.gif]" 
-alt="Ein" heigth=300>
+alt="Ein" height="150">
 
 </div>
 
