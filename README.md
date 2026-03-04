@@ -13,9 +13,9 @@
 
 <img align="right" alt="Code Snippet" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Z1ejU0ZzVsMGN4bXFhNjJydnVhN2QyM2g1dnJqMG9pZTZ3bGR1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUl7B7V5x4Y/giphy.gif">
 
-📍 **João Lisboa - MA (Disponível para Remoto)** | 💼 **Dev. Back-end | Júnior/Estágio** | ❤️ **Node.js, NestJS e Arquitetura de Software**
+ **João Lisboa - MA (Disponível para Remoto)** |  **Dev. Back-end | Júnior/Estágio** |  **Node.js, NestJS e Arquitetura de Software**
 
-**🎯 Experiência e Foco:**
+** Experiência e Foco:**
 - Profissional com **experiência em startup (Nexystem)**, focado na entrega de soluções Back-end robustas.
 - Proficiência na criação e manutenção de **APIs RESTful** e arquitetura de sistemas de alta performance.
 - Forte domínio de **TypeScript** e **NestJS**, seguindo padrões de código moderno e modular.
@@ -32,11 +32,11 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" /> O Que Estou Buscando
 
-- 🔭 Contribuir para projetos que exijam **alta performance** e uso de tecnologias de ponta.
-- 🌱 Aprofundar o uso de **Docker** e a implementação de pipelines **CI/CD** em ambientes de produção.
-- 👯 Colaborar em projetos que promovam o **código limpo** e a arquitetura bem definida.
-- 💬 Pergunte-me sobre **Node.js, NestJS, Modelagem de Dados** e automação com **Python/N8N**.
-- 📫 Contato: **luiscordeiro2006@gmail.com**
+-  Contribuir para projetos que exijam **alta performance** e uso de tecnologias de ponta.
+-  Aprofundar o uso de **Docker** e a implementação de pipelines **CI/CD** em ambientes de produção.
+-  Colaborar em projetos que promovam o **código limpo** e a arquitetura bem definida.
+-  Pergunte-me sobre **Node.js, NestJS, Modelagem de Dados** e automação com **Python/N8N**.
+-  Contato: **luiscordeiro2006@gmail.com**
 
 ---
 
@@ -44,18 +44,18 @@
 
 <div align="center">
 
-### 💻 Back-end e Linguagens
+###  Back-end e Linguagens
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💾 Banco de Dados & Automação
+###  Banco de Dados & Automação
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-FF6600?style=for-the-badge&logo=n8n&logoColor=white)
 
-### ⚙️ Ferramentas, Infra & Ágil
+###  Ferramentas, Infra & Ágil
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
